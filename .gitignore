@@ -1,0 +1,51 @@
+wandb/
+runs/
+runs_to_save/
+figures/
+video/
+# env/
+# Fichiers binaires et objets
+*.o
+*.a
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+*.app
+*.log
+
+# Dossiers générés automatiquement
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Dossiers spécifiques à certains IDE
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.iml
+*.ipr
+*.iws
+*.class
+
+# Fichiers de système
+.DS_Store
+Thumbs.db
+
+# Autres fichiers et dossiers communs à ignorer
+node_modules/
+dist/
+build/
+.env
+
+# Fichiers de journalisation et bases de données
+*.log
+*.sqlite
+
+# Environnements virtuels Python
+venv/

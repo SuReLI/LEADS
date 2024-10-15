@@ -1,2 +1,5 @@
 # LEADS
-A skill-based algorithm designed for pure exploration
+
+This repository contain the code for the paper "LEADS: Exploration by Learning Diverse Skills through
+Successor State Measures".
+
